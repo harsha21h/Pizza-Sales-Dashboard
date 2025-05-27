@@ -84,7 +84,10 @@ Collected raw transactional and product data in Excel format.
 
 ### Dashboard 1
 <img width="769" alt="pizza sales dashboard 1" src="https://github.com/user-attachments/assets/55098118-0d77-4707-a352-c66a038204e3" />
+
+
 ### Dashboard 2
+
 <img width="678" alt="pizza sales dashboard 2" src="https://github.com/user-attachments/assets/9ea3acce-2520-45d3-9a27-de65b9729524" />
 
 ### Project Dashboard Data:
